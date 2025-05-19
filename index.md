@@ -8,7 +8,7 @@
 <body style="text-align:center; padding: 60px; font-family:sans-serif;">
   <h1>Bienvenido a SmartOps 🚀</h1>
   <p>Agencia de automatización con IA y WhatsApp.</p>
-  <a href="https://wa.me/506 8990-3719" 
+  <a href="https://wa.me/50689903719" 
      style="position:fixed; bottom:20px; right:20px; background:#25D366; padding:12px 20px; border-radius:50px; color:white; font-weight:bold; text-decoration:none;">
     📲 WhatsApp
   </a>
